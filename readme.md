@@ -103,7 +103,8 @@ Below is the example of the db design
 }
 ```
     The above object is a parent object that is the reason parentId is null
-  ``` {
+  ``` 
+  {
         "_id": "657f2d24e65eea401adb922c",
         "title": "Child",
         "description": "Child description",
