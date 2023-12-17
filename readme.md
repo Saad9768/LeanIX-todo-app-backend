@@ -114,3 +114,9 @@ Below is the example of the db design
 
 ```
     The above object is a child object which has the respective parent Id
+
+    Benefits of parentId in child object
+    ```
+    Very beneficial to handle each and every object.
+    Updating,Deleting make it comfortable.
+```
