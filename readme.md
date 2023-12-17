@@ -137,3 +137,14 @@ Below is the example of the db design
     Very beneficial to handle each and every object.
     Updating,Deleting make it comfortable.
 ```
+
+Future scope
+Add authentication and authorization
+Load in the docker file
+linting should be added
+monitoring tool such as grafana
+logging tool such as kibana 
+
+Futue scope Feature task
+Completing the parent should complete the children as well.
+
