@@ -17,10 +17,21 @@ To build the code in javascript
 ```
 npm dev:build
 ```
+RUN
+```
+docker compose up
+```
+This is required for the local db setup. There is no requirement of mongo db to be installed on the machine. 
+
+```
+mongo-init.js
+```
+The above file will setup a new db and create a new collection in the db.
+
 After building the code one can run the javascript code
 
 ```
-npm dev:build
+npm dev:serve
 ```
 To Run the typescript code.
 ```
