@@ -138,7 +138,7 @@ Below is the example of the db design
     Updating,Deleting make it comfortable.
 ```
 
-Future scope
+### Future scope
 Add authentication and authorization
 Load in the docker file
 linting should be added
