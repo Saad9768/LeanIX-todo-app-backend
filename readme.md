@@ -31,6 +31,11 @@ The above file will setup a new db and create a new collection in the db.
 After building the code one can run the javascript code
 
 ```
+.env 
+```
+The .env file contains the credential which will be used to setup the credentials.
+
+```
 npm dev:serve
 ```
 To Run the typescript code.
